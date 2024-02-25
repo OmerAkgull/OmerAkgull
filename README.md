@@ -3,7 +3,13 @@
 
 - 🌱 I’m currently learning **Custom Hooks in React**
 
+- 👨‍💻 All of my projects are available at [https://github.com/OmerAkgull?tab=repositories](https://github.com/OmerAkgull?tab=repositories)
+
+- 💬 Ask me about **SCSS, React and Typescript**
+
 - 📫 How to reach me **omerakgul1996@gmail.com**
+
+- ⚡ Fun fact **In uni, I majored in Literature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
